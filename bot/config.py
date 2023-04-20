@@ -2,27 +2,27 @@ import os
 
 class Config:
 
-    BOT_TOKEN = ""
+    BOT_TOKEN = "5654504815:AAGHZ2hzDiIFZdTNnCb0M-6CV99SvYK60ro"
 
-    SESSION_NAME = ""
+    SESSION_NAME = " ytuploader1536bot"
 
-    API_ID = ""
+    API_ID = "5431086"
 
-    API_HASH = ""
+    API_HASH = "fd9f6c58f2e56ad00f02bd2c2120885d"
 
-    CLIENT_ID = ""
+    CLIENT_ID = "696277737465-u279goq240bs0acl8nm3jvacpre4nh5a.apps.googleusercontent.com"
 
-    CLIENT_SECRET = ""
+    CLIENT_SECRET = "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"
 
-    AUTH_USERS = [942731625]
+    AUTH_USERS = [1477530852]
 
-    VIDEO_DESCRIPTION = ""
+    VIDEO_DESCRIPTION = "uploaded by a telegram bot"
 
     VIDEO_CATEGORY = ""
 
-    VIDEO_TITLE_PREFIX = ""
+    VIDEO_TITLE_PREFIX = "START"
 
-    VIDEO_TITLE_SUFFIX = ""
+    VIDEO_TITLE_SUFFIX = "END"
     
     DEBUG = bool()
 
